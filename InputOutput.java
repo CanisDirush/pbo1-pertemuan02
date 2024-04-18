@@ -1,4 +1,4 @@
-Import java.util.Scanner;
+import java.util.Scanner;
 
 public class InputOutput{
  public static void main(String [] args){
@@ -7,5 +7,5 @@ public class InputOutput{
   System.out.print("Masukkan nama anda: ");
   nama = scanner.nextLine();
   System.out.println("Hai, "+nama);
-
  }
+}
